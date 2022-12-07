@@ -8,6 +8,6 @@ Greets from Colombia! 🇨🇴
 
 Yes! and thanks for asking, here it is https://lechediaz.com
 
-### Where is you CV?
+### Where is my CV?
 
 Oh, [click here](https://www.linkedin.com/in/oscar-david-d%C3%ADaz-fortalech%C3%A9-7b88491b3/) to visist my LinkedkIn profile :)
