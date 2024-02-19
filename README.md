@@ -1,10 +1,12 @@
-### Hello
+¡Hola!,
 
-Greets from Colombia! 🇨🇴
+Soy un desarrollador de software Colombiano 🇨🇴 con más de 9 años de experiencia profesional facilitando el trabajo en las empresas.
 
-👋 I'm a _Full Stack developer_, I use **.NET** and **React** mostly in my projects. I love lasagna and playing video games.
+Estoy disponible para trabajar, escríbeme a davidfortaleche@hotmail.com
 
-### More about me
-- My web page https://lechediaz.com
-- My LinkedkIn profile https://www.linkedin.com/in/oscar-david-d%C3%ADaz-fortalech%C3%A9-7b88491b3/
-- My YouTube channel https://www.youtube.com/channel/UCHqlEx1FUYMBoBPtrHgixow
+Saludos.
+
+## Más acerca de mi
+- Página web: https://lechediaz.com
+- Perfil de LinkedIn: https://www.linkedin.com/in/oscardavidiaz
+- Canal de YouTube: https://www.youtube.com/@oscardavidiaz
