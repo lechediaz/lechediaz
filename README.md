@@ -1,6 +1,6 @@
 ¡Hola!,
 
-Soy un desarrollador de software Colombiano 🇨🇴 con más de 9 años de experiencia profesional facilitando el trabajo en las empresas.
+Soy un desarrollador de software Colombiano 🇨🇴 con más de 9 años de experiencia profesional construyendo herramientas web que facilitan el trabajo en las empresas.
 
 Estoy disponible para trabajar, escríbeme a davidfortaleche@hotmail.com
 
