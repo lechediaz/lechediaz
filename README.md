@@ -1,8 +1,8 @@
-¡Hola!,
+Desarrollador de Software Colombiano con 10 años de experiencia en la creación de soluciones web que optimizan los procesos empresariales.
 
-Soy un desarrollador de software Colombiano con más de 9 años de experiencia profesional construyendo herramientas web que facilitan el trabajo de las personas en las empresas.
+Experto en el uso de herramientas clave como Git, .NET (C#), React, SQL Server y Docker, las cuales han sido esenciales en la mayoría de los proyectos en los que he participado.
 
-Estoy disponible para trabajar, escríbeme a trabajemos@lechediaz.com
+Si quieres que trabajemos juntos, escríbeme a trabajemos@lechediaz.com
 
 ## Más acerca de mi
 - Página web: https://lechediaz.com
